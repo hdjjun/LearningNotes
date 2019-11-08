@@ -46,6 +46,7 @@
     * [Gradle](http://wuxiaolong.me/categories/Gradle/)
     * [查漏补缺](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/查漏补缺.md)
     * [Git操作](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Git操作.md)
+    * [Android权限细节](https://github.com/hdjjun/LearningNotes/blob/master/Part1/Android/Android%E6%9D%83%E9%99%90%E7%BB%86%E8%8A%82.md)
 
 
 
